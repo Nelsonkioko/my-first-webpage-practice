@@ -1,0 +1,21 @@
+.menubar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+.menubar  li {
+  float: left;
+}
+
+.menubar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 23px;
+  text-decoration: none;
+}
+.menubar li a:hover {
+  background-color: grey;
